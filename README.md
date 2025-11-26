@@ -58,3 +58,26 @@ How to Run
 
 bash
 python minimal_pomodoro.py
+
+Interface Overview
+
+Main Menu:
+
+- Start button
+- Exit button
+Timer Screen:
+- Large countdown timer
+- Start Pomodoro button
+- Logs section showing progress
+
+Possible Improvements
+
+- Add sound notifications for session changes
+- Add pause/resume button
+- Add custom timer settings
+- Add light/dark mode toggle
+- Add session statistics or save logs to a file
+
+License
+
+This project is open-source under the MIT License.
